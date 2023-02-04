@@ -9,4 +9,4 @@ export function char(symbol){
      inState.addTransitionForSymbol(symbol, outState);
 
      return new NFA(inState, outState);
-}
+} 

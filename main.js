@@ -12,4 +12,4 @@ import { char } from "./char.js";
 
 const a = char('a');
 console.log(a.test('a'));
-console.log(a.test('b'));
+console.log(a);
